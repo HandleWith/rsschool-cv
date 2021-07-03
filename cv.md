@@ -20,7 +20,7 @@ Communication skills, ability to work in a team, stress resistance. I am able to
 
 ### Code example
 
-```
+```javascript
 let number = 9119;
 let digits = number.toString().split('')
 let divided = digits.map(function (x) {
@@ -31,11 +31,11 @@ console.log (divided.join(''))
 
 ### Education
 
-[BSUIR] (https://www.bsuir.by/) 
-Quantum information systems (2019-up to now)
+**[BSUIR](https://www.bsuir.by/)** 
+**Quantum information systems (2019-up to now)**
 
-[Minsk Radio Engineering College] (https://www.mrk-bsuir.by/ru)
-Micro- and nanoelectronic technologies and systems (2015-2019)
+**[Minsk Radio Engineering College](https://www.mrk-bsuir.by/ru)**
+**Micro- and nanoelectronic technologies and systems (2015-2019)**
 
 
 
