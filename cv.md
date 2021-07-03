@@ -2,9 +2,9 @@
 
 ## Contacts
 
-+ Email: vladimir-lyamkov@yandex.by
-+ Github: https://github.com/HandleWith
-+ Telegram: +375299023962
++ Email: vladimir-lyamkov@yandex.by 
++ Github: [https://github.com/HandleWith](https://github.com/HandleWith)
++ Telegram: [+375299023962](https://t.me/H4ndleWithC4re)
 
 ## About
 
