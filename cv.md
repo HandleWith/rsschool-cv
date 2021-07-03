@@ -2,9 +2,9 @@
 
 ## Contacts
 
-+ Email: vladimir-lyamkov@yandex.by 
-+ Github: [https://github.com/HandleWith](https://github.com/HandleWith)
-+ Telegram: [+375299023962](https://t.me/H4ndleWithC4re)
++ Email: vladimir-lyamkov@yandex.by. 
++ Github: [https://github.com/HandleWith](https://github.com/HandleWith).
++ Telegram: [+375299023962](https://t.me/H4ndleWithC4re).
 
 ## About
 
@@ -29,13 +29,17 @@ let divided = digits.map(function (x) {
 console.log (divided.join(''))
 ```
 
+## Work experience
+
+I have no commercial experience in IT sphere.
+
 ## Education
 
-[BSUIR](https://www.bsuir.by/)   
-*Quantum information systems (2019-up to now)*
+[BSUIR](https://www.bsuir.by/).   
+*Quantum information systems (2019-up to now).*
 
-[Minsk Radio Engineering College](https://www.mrk-bsuir.by/ru)  
-*Micro- and nanoelectronic technologies and systems (2015-2019)*
+[Minsk Radio Engineering College](https://www.mrk-bsuir.by/ru).  
+*Micro- and nanoelectronic technologies and systems (2015-2019).*
 
 
 
