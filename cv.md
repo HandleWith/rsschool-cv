@@ -1,6 +1,6 @@
 # Vladimir Lyamkov
 
-## Contact
+## Contacts
 
 + Email: vladimir-lyamkov@yandex.by
 + Github: https://github.com/HandleWith
@@ -18,7 +18,7 @@ Basic HTML, CSS, JavaScript; Markdown, Git and Github, Visual Studio Code.
 
 Communication skills, ability to work in a team, stress resistance. I am able to learn quickly and constantly work on acquiring new knowledge.
 
-### Code example
+## Code example
 
 ```javascript
 let number = 9119;
@@ -29,7 +29,7 @@ let divided = digits.map(function (x) {
 console.log (divided.join(''))
 ```
 
-### Education
+## Education
 
 [BSUIR](https://www.bsuir.by/)   
 *Quantum information systems (2019-up to now)*
