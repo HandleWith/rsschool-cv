@@ -8,7 +8,7 @@
 
 ## About
 
-I am a BSUIR student studying quantum technologies. I am an employee of the research center 4.9 BSUIR. I am interested in website layout, fitness and swimming, literature on psychology and personal growth. My priorities are to improving knoledge of such technologies as HTML, CSS, JavaScript and learning new technologies such as Node.js, React. My my english level A2 is improving every day.
+I am a BSUIR student studying quantum technologies. I am an employee of the research center 4.9 BSUIR. I am interested in website layout, fitness and swimming, literature on psychology and personal growth. My priorities are to improving knoledges of such technologies as HTML, CSS, JavaScript and learning new technologies such as Node.js, React. My my english level A2 is improving every day.
 
 ### Technical skills
 
