@@ -4,36 +4,76 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel = "stylesheet" href = "style.css">
     <title>HTML,CSS & Git</title>
 </head>
 <body>
-    <header>
-        <h1>Vladimir Lyamkov</h1>
-        <h3>Junior Fronrend Developer</h3>
-        <h3>About</h3>
-        <p>I am a BSUIR student studying quantum technologies. 
-            I am an employee of the research center 4.9 BSUIR. 
-            I am interested in website layout, fitness and swimming, literature on psychology and personal growth. 
-            My priorities are to improving knoledges of such technologies as HTML, CSS, 
-            JavaScript and learning new technologies such as Node.js, React. 
-            My my english level A2 is improving every day.</p>
-        <h3>Experience</h3>
-        <p>I have no commercial experience in IT sphere.</p>
-        <section>
-            <h3>Contact</h3>
-            <ul>
-                <li>Email <a href="mailo:vladimir-lyamkov@yandex.by">vladimir-lyamkov@yandex.by</a></li>
-                <li>Telegtam <a href="https://t.me/H4ndleWithC4re"> +375299023962</a> </li>
-                <li>Github <a href="https://github.com/HandleWith">https://github.com/HandleWith</a></li>
-            </ul>
-            <h3>Education</h3>
-            <ul>
-                <li><a href="https://www.bsuir.by/">BSUIR.</a>
-                    <a href="https://abitur.bsuir.by/kvantovye-informatsionnye-sistemy">Quantum information systems</a>(2019-up to now)</li>
-                <li><a href="https://www.mrk-bsuir.by/ru">Minsk Radio Engineering College.</a>
-                    <a href="https://mrk-bsuir.by/ru/content/mikro-i-nanoelektronika">Micro- and nanoelectronic technologies and systems</a>(2015-2019)</li>
-            </ul>
+    <div class = "box">
+        <section class = "rightblock">
+            <div>
+                <h1>Vladimir Lyamkov</h1>
+                <h3 class = "junior">Junior Frontend Developer</h3>
+                <h3>About_</h3>
+                    <p>I am a BSUIR student studying quantum technologies. 
+                    I am an employee of the research center 4.9 BSUIR. 
+                    My priorities are to improving knoledges of such technologies as HTML, CSS, 
+                    JavaScript and learning new technologies such as Node.js, React. 
+                    My my english level A2 is improving every day.</p>
+                    <h3>Experience_</h3>
+                <p>Junior Frontend Developer without commercial experience (2020-up to now).</p>
+                <h3>Code example_</h3>
+                    <code>
+                    const findSquares = num => { <br>
+                        const min = Math.trunc (num/2)**2; <br>
+                        const max = Math.trunc (num/2+1)**2; <br>
+                        return `${max}-${min}` <br>
+                        };
+                    </code>
+                <h3>Skills_</h3>
+                <section class = "skillssize">
+                    <ul>
+                        <li> HTML <input type ="range" min="0" max="100" step="5" value="40"> </li>
+                        <li> CSS <input type ="range" min="0" max="100" step="5" value="40"></li>
+                        <li> JavaScript <input type ="range" min="0" max="100" step="5" value="30"></li>
+                        <li> Git <input type ="range" min="0" max="100" step="5" value="60"></li>
+                        <li> VSCode <input type ="range" min="0" max="100" step="5" value="60"></li>
+                    </ul>
+                </section>
+            <h3 class ="hobb">Hobbies_</h3>
+                <p>
+                <img src = "picture/book.png" title = "reading" alt="reading">
+                <img src = "picture/dumbbell.png" title = "sport" alt="sport">
+                <img src = "picture/swimmer.png" title = "swimming" alt="swimming">
+                <img src = "picture/rounded-headphones.png" title = "music" alt="music">
+                </p>
+                <footer class="footclass">
+                    <ul>
+                        <li><img src="picture/rs_school_js.svg"></li>
+                    </ul>
+                </footer>
+            </div>
         </section>
-    </header>
+        <section class = "leftblock">
+            <div><img src = "picture/photo.jpg" alt="photo"></div>
+            <div class = "one">
+            <h3>Contact_</h3>
+            <ul>
+                <p>Email_</p>
+                <li class = "textsize"><a href="mailo:vladimir-lyamkov@yandex.by">vladimir-lyamkov@yandex.by</a></li>
+                <p>Telegtam_</p>
+                <li class = "textsize"><a href="https://t.me/H4ndleWithC4re"> +375299023962</a> </li>
+                <p>Github_</p>
+                <li class = "textsize"><a href="https://github.com/HandleWith">https://github.com/HandleWith</a></li>
+            </ul>
+            <h3>Education_</h3>
+                <ul>
+                    <li class = "education"><a href="https://www.bsuir.by/">BSUIR</a>
+                    <li class = "textsize"><a href="https://abitur.bsuir.by/kvantovye-informatsionnye-sistemy">Quantum information systems (2019-up to now).</a></li>
+                    <li class = "education"><a href="https://www.mrk-bsuir.by/ru">Minsk Radio Engineering College</a>
+                    <li class = "textsize"><a href="https://mrk-bsuir.by/ru/content/mikro-i-nanoelektronika">Micro- and nanoelectronic technologies and systems (2015-2019).</a> </li>
+                </ul>
+            </div>
+        </section>
+    </div>
 </body>
 </html>
