@@ -5,11 +5,28 @@ body {
 }
 a {
     text-decoration: none;
-    color: whitesmoke;
 }
 li {
     list-style: none;
     padding-bottom: 15px;
+}
+footer ul {
+    margin-top: 15px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+footer li {
+    display: inline;
+}
+footer a {
+    color: black;
+    padding-left: 2px;
+}
+footer a:hover {
+    border-left: 1px solid burlywood;
+}
+footer:last-child::after {
+    content: attr(title);
 }
 .hobb {
     margin-top: 10px;
@@ -42,11 +59,14 @@ li {
 .leftblock ul {
     padding-left: 20px;
 }
+.leftblock a {
+    color: whitesmoke;
+}
 .leftblock img {
     width: 300px; 
 }
 .leftblock a:hover {
-    color: blue
+    color: burlywood
 }
 .leftblock p {
     margin-bottom: 0px;
@@ -57,7 +77,7 @@ li {
     float: right;
     background: white;
     height: 820px;
-    font-size: 15px;
+    font-size: 14.7px;
 }
 .rightblock div {
     margin-left: 30px;
@@ -96,4 +116,6 @@ li {
 .textsize {
     font-size: 13px;
 }
-
+.name {
+    padding-bottom: 0px;
+}
