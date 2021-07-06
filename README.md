@@ -1,1 +1,1 @@
-https://HandleWith.github.io/rsschool-cv/cv
+https://HandleWith.github.io/rsschool-cv/
