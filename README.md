@@ -1,1 +1,0 @@
-https://HandleWith.github.io/rsschool-cv/
