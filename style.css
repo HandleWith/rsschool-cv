@@ -11,9 +11,9 @@ li {
     padding-bottom: 15px;
 }
 footer ul {
-    margin-top: 15px;
-    margin-bottom: 0px;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 footer li {
     display: inline;
