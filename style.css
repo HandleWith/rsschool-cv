@@ -10,6 +10,9 @@ li {
     list-style: none;
     padding-bottom: 15px;
 }
+span {
+    background: #ddd7d7c9;
+}
 footer ul {
     display: flex;
     justify-content: center;
