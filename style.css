@@ -289,14 +289,14 @@ h4,h5 {
     justify-content: center;
     align-items: center;
     color: black;
-    top: 110px;
-    left: 10px;
+    top: 105px;
     width: 80px;
     border-radius: 20%;
     background-color: #ddd7d7c8;
     transform: scale(1);
     transition: all .3s ease-in;
     height: 40px;
+    font-weight: 300;
 }
 
 .project_button:hover {
