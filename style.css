@@ -13,8 +13,6 @@ body {
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
     background: #ddd7d7c8;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 a {
@@ -428,6 +426,23 @@ h4,h5 {
     color:black;
     font-size: 18px;
     font-weight: 500;
+}
+
+.top_btn {
+    width: 40px;
+    background: rgb(222, 184, 135, 0.9);
+    text-align: center;
+    padding: 5px;
+    position: fixed;
+    bottom: 24px;
+    right: 13px;
+    cursor: pointer;
+    display: none;
+    color: rgb(255, 255, 255);
+    height: 40px;
+    border-radius: 50%;
+    z-index: 10;
+    vertical-align: middle;
 }
 
 @media (max-width: 980px) {
